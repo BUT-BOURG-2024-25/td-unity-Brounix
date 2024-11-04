@@ -4,9 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Cube
   - Ground
   - Damager
+  - Breackable
   layers:
   - Default
   - TransparentFX
